@@ -3,5 +3,5 @@
 ## My hobbies:
 - books
 - running
-- cookie backing
+- cookie baking
 - wine
