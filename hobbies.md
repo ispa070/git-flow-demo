@@ -1,4 +1,4 @@
 # Gruppens hobbyer
 
 - [Jenny](jenny-hobby.md)
-- [Isak]
+- [Isak](isak-hobby.md)
